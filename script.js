@@ -1,4 +1,4 @@
-document.getElementsByTagName("h1")[0].style.fontSize = "6vw";
+document.getElementsByTagName("h1")[0].style.fontSize = "5vw";
 
 function showTime() {
   var date = new Date();
